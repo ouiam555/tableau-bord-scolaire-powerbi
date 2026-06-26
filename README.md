@@ -207,5 +207,5 @@ Strategic summary and recommendations based on data analysis.
 
 ## 👩‍💻 Author
 
-**Ouiam El Khalfi** — Data analyst Student
+**Ouiam El Khalfi** — Data Engineering Student
 Academic Project — 2026
